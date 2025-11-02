@@ -4,46 +4,46 @@ A Paytm-style Flutter app UI built using Clean Architecture principles — featu
 This project focuses on frontend UI only (no backend integration).
 
 Features
-Home Screen with wallet, services, and offers section
+- Home Screen with wallet, services, and offers section
 
-Payment/Recharge Screen with user input and options
+- Payment/Recharge Screen with user input and options
 
-Bottom Navigation Bar for smooth screen switching
+- Bottom Navigation Bar for smooth screen switching
 
-Custom Reusable Widgets for consistency
+- Custom Reusable Widgets for consistency
 
-Fully Responsive UI using MediaQuery
+- Fully Responsive UI using MediaQuery
 
-Blue–White Paytm Theme with modern design elements
+- Blue–White Paytm Theme with modern design elements
 
 Architecture
 
 - Follows Clean Architecture structure for maintainability and scalability.
 
- UI Highlights
+UI Highlights
 
-Clean blue-white Paytm theme
+- Clean blue-white Paytm theme
 
-CustomAppBar with logo & icons
+- CustomAppBar with logo & icons
 
-Service Grid (Recharge, Bill Pay, Fastag, etc.)
+- Service Grid (Recharge, Bill Pay, Fastag, etc.)
 
-Wallet & Offer Cards with shadows
+- Wallet & Offer Cards with shadows
 
-Smooth navigation & responsive layouts
+- Smooth navigation & responsive layouts
 
- ech Stack
+ Tech Stack
 
-Framework: Flutter
+- Framework: Flutter
 
-Language: Dart
+- Language: Dart
 
-Architecture: Clean Architecture (UI + Logic + Data separation)
+- Architecture: Clean Architecture (UI + Logic + Data separation)
 
-Design: Custom Widgets + MediaQuery responsiveness
+- Design: Custom Widgets + MediaQuery responsiveness
 
 
-🛠️ Setup
+Setup
 # Clone this repository
 git clone https://github.com/shivanitomar0416/paytm_app.git
 
